@@ -22,7 +22,7 @@ EngSci ECE at the University of Toronto. 2T8 + PEY, looking for a 12/16-month PE
 
 **Courses I have taken / currently taking / will have taken by Summer 2027 include:**
 
-**Have Taken:** Electrical Circuits, Digital and Computer Systems, Electricity and Magnetism, Applied Fundamentals of Deep Learning
+**Have Taken:** Electrical Circuits, [Digital and Computer Systems](https://github.com/Laaaarry/Digital-and-Computer-Systems-Labs), Electricity and Magnetism, Applied Fundamentals of Deep Learning
 
 **Currently Taking:** Computer Organization, Electronics, Signal Analysis and Communication
 
